@@ -1,0 +1,10 @@
+pages:
+- Home: 'index.md'
+- API:
+  -'Card': 'api/card.md'
+  -'NoticeBar': 'api/noticeBar.md'
+  -'LineChart': 'api/lineChart.md'
+
+- Installation: 'installation.md'
+
+
